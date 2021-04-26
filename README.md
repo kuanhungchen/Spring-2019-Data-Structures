@@ -10,6 +10,6 @@
 - hw5: _Network Planning_
 - hw6: _Huffman Compression_
 
-## Others
+## Contact
 
-Feel free to email me at [khc@gapp.nthu.edu.tw](mailto:khc@gapp.nthu.edu.tw) or open an issue here if you have any ideas.
+Feel free to email me at [khchen.me@gmail.com](mailto:khchen.me@gmail.com) or open an issue here if you have any ideas.
